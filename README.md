@@ -1,6 +1,7 @@
-# 🖥️ Hector Martins
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9C19FA&height=120&section=header"/>
 
-Desenvolvedor Full Stack
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9C19FA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Hector+Pereira+Lima+Martins;Sou+um+estudante+de+Engenharia+de+Software;Sou+um+Desenvolvedor+Full+Stack)](https://git.io/typing-svg) 
+
 ------------------------
 
 Me chamo Hector Pereira Lima Martins, tenho 20 anos e sou estudante de Engenharia de Software na ``Estácio`` e continuo aprimorando meus conhecimentos por meio de outras plataformas de aprendizado. Sou apaixonado por tecnologia e gosto de compartilhar meus projetos e aprendizados na plataforma GitHub, colocando em prática tudo o que venho estudando.
