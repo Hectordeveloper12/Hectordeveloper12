@@ -11,7 +11,7 @@ Me chamo Hector Pereira Lima Martins, tenho 20 anos e sou estudante de Engenhari
 * 🚀  Atualmente, estou participando de vários projetos de desenvolvimento.
 * 🤝  Estou aberto a colaborar em projetos que tenham um grande impacto na vida das pessoas.
 
-![Coffee GIF](https://i.pinimg.com/originals/b9/01/85/b9018579aebd5c161b0eac79ca04f17a.gif)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hectordeveloper12&bg_color=000000&color=9C19FA&line=9C19FA&point=531D80&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 👨‍💻 Habilidades
 
