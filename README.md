@@ -1,44 +1,92 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9C19FA&height=120&section=header"/>
+# Hector Pereira Lima Martins
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9C19FA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Hector+Pereira+Lima+Martins;Sou+um+estudante+de+Engenharia+de+Software;Sou+um+Desenvolvedor+Full+Stack)](https://git.io/typing-svg) 
+Engenheiro de Software com foco no desenvolvimento de aplicações web modernas, APIs robustas e arquitetura de sistemas escaláveis. Atuo com uma mentalidade orientada a produto, qualidade de código e boas práticas de engenharia, buscando sempre alinhar tecnologia, negócio e experiência do usuário.
 
-------------------------
+Localização: Uberaba – MG  
+Idade: 20 anos  
+Contato: WhatsApp (34) 9 9129-4123  
 
-Me chamo Hector Pereira Lima Martins, tenho 20 anos e sou estudante de Engenharia de Software na ``Estácio`` e continuo aprimorando meus conhecimentos por meio de outras plataformas de aprendizado. Sou apaixonado por tecnologia e gosto de compartilhar meus projetos e aprendizados na plataforma GitHub, colocando em prática tudo o que venho estudando.
+---
 
-* 🌍  Moro em Curitiba - PR, Brasil
-* ✉️  Você pode me contatar pelo **(34) 9 9129-4123** (WhatsApp)
-* 🚀  Atualmente, estou participando de vários projetos de desenvolvimento.
-* 🤝  Estou aberto a colaborar em projetos que tenham um grande impacto na vida das pessoas.
+## Sobre mim
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hectordeveloper12&bg_color=000000&color=9C19FA&line=9C19FA&point=531D80&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Sou Engenharo de Software, com experiência prática no desenvolvimento de soluções completas do frontend ao backend utilizando tecnologias modernas, padrões consolidados e organização de código.
 
-# 👨‍💻 Habilidades
+Tenho como objetivo não apenas entregar funcionalidades, mas construir sistemas sustentáveis, bem estruturados e fáceis de evoluir. Valorizo arquitetura bem definida, separação de responsabilidades, documentação clara e manutenção de longo prazo.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="60" alt="insomnia logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="60" alt="discordjs logo"  />
-</div>
+Meu sonho é evoluir continuamente como programador, participar de projetos relevantes e impactar pessoas e negócios através da tecnologia, consolidando minha carreira como engenheiro de software.
+
+---
+
+## Princípios de Engenharia
+
+- Código limpo, legível e padronizado  
+- Arquitetura escalável e sustentável  
+- Separação clara de responsabilidades  
+- Foco em manutenção, performance e evolução  
+- Comunicação clara e organização de processos  
+- Aprendizado contínuo  
+
+---
+
+## Stacks & Tecnologias
+
+### Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp)
+
+---
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
+
+Desenvolvimento de interfaces responsivas, componentizadas, performáticas e focadas em experiência do usuário.
+
+---
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-000?style=for-the-badge&logo=dotnet)
+![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-000?style=for-the-badge&logo=dotnet)
+
+Criação de APIs REST, autenticação e autorização, regras de negócio, integrações externas e arquitetura em camadas.
+
+---
+
+### Banco de Dados
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoftsqlserver)
+
+Modelagem de dados, consultas otimizadas, relacionamento entre entidades e organização de estruturas para sistemas de médio e grande porte.
+
+---
+
+### DevOps & Ambiente
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+
+Controle de versão, fluxo de branches, colaboração em equipe e uso de ambientes Linux para desenvolvimento e servidores.
+
+---
+
+### Bots & Integrações
+![Discord.js](https://img.shields.io/badge/Discord.js-000?style=for-the-badge&logo=discord)
+
+Automação de processos, criação de bots e integrações com APIs externas.
+
+---
+
+### Organização & Gestão
+![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion)
+![Jira](https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=jira)
+
+Planejamento, gestão ágil de tarefas, documentação técnica e acompanhamento de projetos.
+
+---
