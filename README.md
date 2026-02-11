@@ -71,6 +71,8 @@ Modelagem de dados, consultas otimizadas, relacionamento entre entidades e organ
 ### DevOps & Ambiente
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Node-RED](https://img.shields.io/badge/Node--RED-000?style=for-the-badge&logo=nodered)
 
 Controle de versão, fluxo de branches, colaboração em equipe e uso de ambientes Linux para desenvolvimento e servidores.
 
