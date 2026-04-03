@@ -3,8 +3,7 @@
 Engenheiro de Software com foco no desenvolvimento de aplicações web modernas, APIs robustas e arquitetura de sistemas escaláveis. Atuo com uma mentalidade orientada a produto, qualidade de código e boas práticas de engenharia, buscando sempre alinhar tecnologia, negócio e experiência do usuário.
 
 Localização: Uberaba – MG  
-Idade: 20 anos  
-Contato: WhatsApp (34) 9 9129-4123  
+Idade: 21 anos  
 
 ---
 
